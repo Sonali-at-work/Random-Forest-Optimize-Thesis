@@ -1,2 +1,3 @@
 This project implements a Random Forest classifier with an adaptive, feature importance-guided quantile thresholding mechanism. The method improves threshold computation efficiency while maintaining classification accuracy.
 adaptive
+adaptive
